@@ -4,6 +4,15 @@ import matplotlib.pyplot as plt
 from db_connection import get_connection
 import queries
 
+from flask import Flask
+
+app = Flask(__name__)
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Hello World"
+
 
 # -------------------------
 # PAGE CONFIG
