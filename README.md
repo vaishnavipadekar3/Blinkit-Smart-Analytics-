@@ -85,7 +85,7 @@ Images :
 ![Overview](Overview.png)
 
 3. ## SQL Runner
-![SQL Runner](SQLrunner.png)
+![SQL Runner](SQL runnner.png)
 
 👩‍💻 Author:
 
