@@ -6,3 +6,4 @@ seaborn
 plotly
 fastapi
 uvicorn
+mysql-connector-python
