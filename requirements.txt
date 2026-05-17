@@ -4,3 +4,5 @@ numpy
 matplotlib
 seaborn
 plotly
+fastapi
+uvicorn
