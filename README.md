@@ -75,6 +75,12 @@ This project simulates a real-world analytics system for a quick-commerce platfo
 - Secure password hashing (bcrypt)
 - Role-based user access
 
+Images : 
+
+1. ## 📸 Project Screenshot
+
+![Blinkit Dashboard](Screenshot%202026-05-17%20084841.png)
+
 👩‍💻 Author:
 
 Developed by Vaishnavi Padekar
