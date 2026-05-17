@@ -79,7 +79,7 @@ Images :
 
 1. ## 📸 Project Screenshot
 
-![Blinkit Dashboard](Screenshot%202026-05-17%20084841.png)
+![Blinkit Overview](Overview.png)
 
 👩‍💻 Author:
 
