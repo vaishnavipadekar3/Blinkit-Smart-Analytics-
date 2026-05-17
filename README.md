@@ -85,7 +85,7 @@ Images :
 ![Overview](Overview.png)
 
 3. ## SQL Runner
-![SQL Runner](SQL runnner.png)
+![SQL Runner](![SQL Runner](https://raw.githubusercontent.com/vaishnavipadekar3/Blinkit-Smart-Analytics-/54ff327427bb6b742b94320b63c3062c77b664cf/SQL%20runnner.png))
 
 👩‍💻 Author:
 
